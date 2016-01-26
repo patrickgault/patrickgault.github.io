@@ -1,12 +1,12 @@
 # Site settings
 title: Patrick Gault
-email: PatrickGault At Gmail
+email: PatrickGaultAtGmail
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: #"" # the subpath of your site, e.g. /blog/
 url: #"" # the base hostname & protocol for your site
 
 twitter_username: patricktgault
-github_username: patrickgault
+github_username: pgault
 
 # Build settings
 markdown: kramdown
